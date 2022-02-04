@@ -1,1 +1,1 @@
-D:\DESARROLLO\RUST\RUST\hello-cargo\target\debug\hello-cargo.exe: D:\DESARROLLO\RUST\RUST\hello-cargo\src\main.rs
+/home/rober/DESARROLLO/RUST/rust/hello-cargo/target/debug/hello-cargo: /home/rober/DESARROLLO/RUST/rust/hello-cargo/src/main.rs
